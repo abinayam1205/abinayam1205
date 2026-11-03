@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="abinaya-banner.png" width="100%" />
+  <img src="abi_gitbanner.png" width="100%" />
 </div>
 # Hey there! 👋 I'm Abinaya M
 
